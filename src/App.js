@@ -15,11 +15,11 @@ function App() {
       </div>
 
       <div className="content">
-        <h1>Lorem lorem</h1>
-        <p>bbsabpdbwasbyvdyuusvhjvhvhhhjvdsagojygeybh mhnbhbyisgdgasjbd</p>
+        <h1>Lee Sin Plays</h1>
+        <p>Videos de jugadas mecanicas con el campeón del LoL</p>
         <div>
-        <button type="button"><span></span>Lorem</button>
-        <button type="button"><span></span>Insup</button>
+        <button type="button"><a href="https://www.youtube.com/channel/UC7Za_4zI6nyS8Gd0u2Qrclg" target="_blank" rel="noopener noreferrer"><span></span>YouTube</a></button>
+        <button type="button"><a href="https://vm.tiktok.com/ZM8WH1hbr/" target="_blank" rel="noopener noreferrer"><span></span>TikTok</a></button>
       </div>
       </div>   
     </div>

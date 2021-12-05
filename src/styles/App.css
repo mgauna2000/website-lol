@@ -8,6 +8,7 @@
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(../img/leesin.png);
     background-size: cover;
+    background-position: center;
 }
 .navbar {
     width: 85%;
@@ -93,4 +94,8 @@ button:hover span {
 }
 button:hover {
     border: none;
+}
+button a {
+    text-decoration: none;
+    color: #fff;
 }
